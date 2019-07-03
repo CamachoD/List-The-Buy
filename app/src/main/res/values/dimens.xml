@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin">8dp</dimen>
+    <dimen name="layout_marginStart_Recycler">10dp</dimen>
+    <dimen name="layout_marginLeft_Recycler">10dp</dimen>
+    <dimen name="width_FloatingAction">72dp</dimen>
+    <dimen name="height_Floatingaction">54dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+
+</resources>

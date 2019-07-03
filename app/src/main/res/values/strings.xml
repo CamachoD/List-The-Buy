@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">List the Buy</string>
+    <string name="name_prduct">Nombre Producto</string>
+    <string name="count_product">0</string>
+    <string name="btn_submit">Enviar</string>
+    <string name="add_product">Nuevo Producto</string>
+    <string name="search_menu">Buscar</string>
+    <string name="submit_menu">Enviar pedido</string>
+    <string name="delete_menu">Borrar Productos</string>
+    <string name="data_prduct">Compra por</string>
+</resources>

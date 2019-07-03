@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:appompat="http://schemas.android.com/tools"
+      xmlns:tools="http://schemas.android.com/tools"
+tools:context=".ListOfProducts">
+
+    <item
+            android:id="@+id/search_id_menu"
+            android:icon="@drawable/ic_search"
+            android:visible="true"
+            android:title="@string/search_menu"
+            app:showAsAction="always"
+            app:actionViewClass="android.widget.SearchView"/>
+    <item
+            android:id="@+id/submit_id_menu"
+            android:title="@string/submit_menu"
+            app:showAsAction="never"/>
+    <item
+            android:id="@+id/delete_id_menu"
+            android:title="@string/delete_menu"
+            app:showAsAction="never"/>
+</menu>
